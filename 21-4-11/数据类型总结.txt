@@ -1,0 +1,16 @@
+总结
+java当中的8种基本数据类型分别是以下的：
+数据类型  byte        char        short         int         long    float    double   boolean
+字节数       1             2              2             4             8         4           8       没有规定
+包装类     Byte    Character    Short     Interger    Long    Float   Double   Boolean
+java当中的数据类型分为2大类
+1、基本数据类型
+
+
+2、引用数据类型  类 ，String ，数组 ，抽象类 ，接口 ，枚举……
+
+隐式类型转换：
+把一个小类型数据 给 大类型
+
+显示类型转换
+把一个大类型给小类型 需要强制类型转换
